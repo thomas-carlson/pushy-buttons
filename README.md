@@ -53,3 +53,4 @@ Checkout the [Demo](https://thomas-carlson.github.io/pushy-buttons/) to see the 
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
